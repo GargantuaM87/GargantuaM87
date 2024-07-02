@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **isokn7654@gmail.com**
 
-<p align=”center”><img width=”200" height=”200" src=”Make your README.png" alt=”my banner”></p>
+<p align=”center”><img width=”200" height=”200" src="[Make your README.png](https://github.com/NkosiDaniel/NkosiDaniel/blob/main/Make%20your%20README.png?raw=true)" alt=”my banner”></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
