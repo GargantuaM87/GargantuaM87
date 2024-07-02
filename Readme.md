@@ -1,3 +1,4 @@
+<p align=”center”><img width=”200" height=”200" src="Make your README.png" alt=”my banner”></p>
 <h1 align="center">Hi 👋, I'm Ayinde Abrams</h1>
 <h3 align="center">A passionate Computer Scientist from the US</h3>
 
@@ -8,8 +9,6 @@
 - 💬 Ask me about **Unity or C#**
 
 - 📫 How to reach me **isokn7654@gmail.com**
-
-<p align=”center”><img width=”200" height=”200" src="[Make your README.png](https://github.com/NkosiDaniel/NkosiDaniel/blob/main/Make%20your%20README.png?raw=true)" alt=”my banner”></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
