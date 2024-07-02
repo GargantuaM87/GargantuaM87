@@ -9,11 +9,8 @@
 
 - 📫 How to reach me **isokn7654@gmail.com**
 
-<p align=”center”>
+<p align=”center”><img width=”200" height=”200" src=”Make your README.png" alt=”my banner”> </p>
 
-<img width=”200" height=”200" src=”Make your README.png" alt=”my banner”>
-
-</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ayindeabrams" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayindeabrams" height="30" width="40" /></a>
