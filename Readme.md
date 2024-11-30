@@ -2,11 +2,11 @@
 <h2 align="center">ABOUT ME:</h2>
 <h3 align="center">A passionate Computer Scientist from the US</h3>
 
-- 🔭 I’m currently working on [A unity project](https://github.com/NkosiDaniel/exciting-castle)
+- 🔭 I’m currently working on [A unity project](https://github.com/NkosiDaniel/proj-Galactic)
 
-- 🌱 I’m currently learning **Data Structures, Algorithms, OpenGL, and Houdini**
+- 🌱 I’m currently learning **Three.js, Computer Graphics, & Linear Algebra**
 
-- 💬 Ask me about **Unity or C#**
+- 💬 Ask me about **Unity, C# or Blender**
 
 - 📫 How to reach me **isokn7654@gmail.com**
 
