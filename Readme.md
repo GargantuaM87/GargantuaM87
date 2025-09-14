@@ -1,4 +1,3 @@
-<p align=”center”><img width=”200" height=”200" src="Make your README.png" alt=”my banner”></p>
 <h2 align="center">ABOUT ME:</h2>
 <h3 align="center">A passionate Computer Scientist from the US</h3>
 
