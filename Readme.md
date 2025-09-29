@@ -1,11 +1,7 @@
 <h2 align="center">ABOUT ME:</h2>
 <h3 align="center">A passionate Computer Scientist from the US</h3>
 
-- 🔭 I’m currently working on [A unity project](https://github.com/NkosiDaniel/proj-Galactic)
-
-- 🌱 I’m currently learning **Three.js, Computer Graphics, & Linear Algebra**
-
-- 💬 Ask me about **Unity, C# or Blender**
+- Currently going wherever the wind takes me
 
 - 📫 How to reach me **isokn7654@gmail.com**
 
