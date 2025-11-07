@@ -18,5 +18,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gargantuam87&show_icons=true&locale=en&layout=compact" alt="gargantuam87" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gargantuam87&" alt="gargantuam87" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=GargantuaM87)](https://git.io/streak-stats)
 
