@@ -1,5 +1,5 @@
 <h2 align="center">ABOUT ME:</h2>
-<h3 align="center">A passionate Computer Scientist from the US</h3>
+<h3 align="center">Just someone programming</h3>
 
 - Currently going wherever the wind takes me
 
@@ -18,5 +18,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gargantuam87&show_icons=true&locale=en&layout=compact" alt="gargantuam87" /></p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GargantuaM87&theme=catppuccin-mocha)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=GargantuaM87&theme=catppuccin-macchiato)](https://git.io/streak-stats)
 
